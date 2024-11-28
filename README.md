@@ -14,4 +14,8 @@ For Windows: [Windows Version](version-gen-password/windows-executable-x64-gen-p
 
 For Linux: [Linux Version](version-gen-password/linux-executable-x64-gen-password)
 
+-------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/2c95ba92-edc8-4edc-aa24-c6cfc0b0325e)
+----------------------------------------------------------------------------------------------
+
 Thank you for your interest in my project!
