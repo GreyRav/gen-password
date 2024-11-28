@@ -10,7 +10,7 @@ This password generator based on sentences provides high security because generi
 ## Download
 To download the password generator, choose the executable for your operating system:
 
-For Windows: [Windows Version](version-gen-password/windows-x84-64-gen-password)
+For Windows: [Windows Version](version-gen-password/windows-x84-64-gen-password.exe)
 
 For Linux: [Linux Version](version-gen-password/linux-executable-x64-gen-password)
 
